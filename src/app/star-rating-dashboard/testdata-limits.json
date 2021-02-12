@@ -1,0 +1,402 @@
+{
+    "Chaps1": [
+        {
+            "Organization legal name": "EXCELA HEALTH PHYSICIAN PRACTICES, INC",
+            "Group PAC ID": "6204737117",
+            "State": "PA",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        },
+        {
+            "Organization legal name": "ST VINCENT HOSPITAL HOSPITAL SISTERS THIRD ORDER OF ST FRANCIS",
+            "Group PAC ID": "5799694675",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        },
+        {
+            "Organization legal name": "BELOIT HEALTH SYSTEM INC",
+            "Group PAC ID": "8224947858",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        },
+        {
+            "Organization legal name": "RAPID CITY MEDICAL CENTER LLP",
+            "Group PAC ID": "5890691075",
+            "State": "SD",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        },
+        {
+            "Organization legal name": "UNIVERSITY OF KANSAS HOSPITAL AUTHORITY",
+            "Group PAC ID": "9436054798",
+            "State": "KS",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        },
+        {
+            "Organization legal name": "REX HOSPITAL INC",
+            "Group PAC ID": "840109864",
+            "State": "NC",
+            "Measure Code": "CAHPS_GRP_1",
+            "Measure Title": "CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information",
+            "MeasurePerformanceRate": "88"
+        }
+    ],
+    "Chaps2": [
+        {
+            "Organization legal name": "SYCAMORE PRIMARY CARE GROUP",
+            "Group PAC ID": "4688570278",
+            "State": "OH",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "97"
+        },
+        {
+            "Organization legal name": "TRINITY WEST",
+            "Group PAC ID": "5496648875",
+            "State": "OH",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "97"
+        },
+        {
+            "Organization legal name": "CARDIOLOGY CONSULTANTS OF PHILADELPHIA PC",
+            "Group PAC ID": "5294620746",
+            "State": "PA",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "AURORA HEALTH CARE METRO INC",
+            "Group PAC ID": "8628986536",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "FRENCH CREEK INTERNAL MEDICINE",
+            "Group PAC ID": "244452258",
+            "State": "PA",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "WYOMING HEALTH MEDICAL GROUP LLC",
+            "Group PAC ID": "8426102831",
+            "State": "WY",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "BRIGHAM AND WOMENS PHYSICIANS ORGANIZATION INC",
+            "Group PAC ID": "3870405988",
+            "State": "MA",
+            "Measure Code": "CAHPS_GRP_2",
+            "Measure Title": "CAHPS for MIPS SSM: How Well Providers Communicate",
+            "MeasurePerformanceRate": "95"
+        }
+    ],
+    "Chaps3": [
+        {
+            "Organization legal name": "MEMORIAL SOLID TUMOR GROUP",
+            "Group PAC ID": "4082503354",
+            "State": "NY",
+            "Measure Code": "CAHPS_GRP_3",
+            "Measure Title": "CAHPS for MIPS SSM: Patient's Rating of Provider",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "SYCAMORE PRIMARY CARE GROUP",
+            "Group PAC ID": "4688570278",
+            "State": "OH",
+            "Measure Code": "CAHPS_GRP_3",
+            "Measure Title": "CAHPS for MIPS SSM: Patient's Rating of Provider",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "AURORA HEALTH CARE METRO INC",
+            "Group PAC ID": "8628986536",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_3",
+            "Measure Title": "CAHPS for MIPS SSM: Patient's Rating of Provider",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "BRIGHAM AND WOMENS PHYSICIANS ORGANIZATION INC",
+            "Group PAC ID": "3870405988",
+            "State": "MA",
+            "Measure Code": "CAHPS_GRP_3",
+            "Measure Title": "CAHPS for MIPS SSM: Patient's Rating of Provider",
+            "MeasurePerformanceRate": "95"
+        },
+        {
+            "Organization legal name": "CARDIOLOGY CONSULTANTS OF PHILADELPHIA PC",
+            "Group PAC ID": "5294620746",
+            "State": "PA",
+            "Measure Code": "CAHPS_GRP_3",
+            "Measure Title": "CAHPS for MIPS SSM: Patient's Rating of Provider",
+            "MeasurePerformanceRate": "95"
+        }
+    ],
+    "Chaps5": [
+        {
+            "Organization legal name": "DREXEL UNIVERSITY",
+            "Group PAC ID": "5496664740",
+            "State": "PA",
+            "Measure Code": "CAHPS_GRP_5",
+            "Measure Title": "CAHPS for MIPS SSM: Health Promotion and Education",
+            "MeasurePerformanceRate": "74"
+        },
+        {
+            "Organization legal name": "AURORA HEALTH CARE METRO INC",
+            "Group PAC ID": "8628986536",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_5",
+            "Measure Title": "CAHPS for MIPS SSM: Health Promotion and Education",
+            "MeasurePerformanceRate": "72"
+        },
+        {
+            "Organization legal name": "UNM MEDICAL GROUP INC",
+            "Group PAC ID": "4981795267",
+            "State": "NM",
+            "Measure Code": "CAHPS_GRP_5",
+            "Measure Title": "CAHPS for MIPS SSM: Health Promotion and Education",
+            "MeasurePerformanceRate": "71"
+        },
+        {
+            "Organization legal name": "CAPE PHYSICIANS ASSOCIATES PA",
+            "Group PAC ID": "749333730",
+            "State": "NJ",
+            "Measure Code": "CAHPS_GRP_5",
+            "Measure Title": "CAHPS for MIPS SSM: Health Promotion and Education",
+            "MeasurePerformanceRate": "71"
+        },
+        {
+            "Organization legal name": "KANSAS UNIVERSITY PHYSICIANS INC",
+            "Group PAC ID": "8921911587",
+            "State": "KS",
+            "Measure Code": "CAHPS_GRP_5",
+            "Measure Title": "CAHPS for MIPS SSM: Health Promotion and Education",
+            "MeasurePerformanceRate": "71"
+        }
+    ],
+    "Chaps8": [
+        {
+            "Organization legal name": "UNIVERSITY OF KANSAS HOSPITAL AUTHORITY",
+            "Group PAC ID": "9436054798",
+            "State": "KS",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "98"
+        },
+        {
+            "Organization legal name": "SOUTHEAST MISSOURI HOSPITAL PHYSICIANS LLC",
+            "Group PAC ID": "9133024334",
+            "State": "MO",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "97"
+        },
+        {
+            "Organization legal name": "ATHENS MEDICAL ASSOCIATES, LLC",
+            "Group PAC ID": "9537112685",
+            "State": "OH",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "MEMORIAL SOLID TUMOR GROUP",
+            "Group PAC ID": "4082503354",
+            "State": "NY",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "UNIVERSITY OF ROCHESTER",
+            "Group PAC ID": "5799699088",
+            "State": "NY",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "96"
+        },
+        {
+            "Organization legal name": "CAROLINAEAST PHYSICIANS",
+            "Group PAC ID": "143378117",
+            "State": "NC",
+            "Measure Code": "CAHPS_GRP_8",
+            "Measure Title": "CAHPS for MIPS SSM: Courteous and Helpful Office Staff",
+            "MeasurePerformanceRate": "96"
+        }
+    ],
+    "Chaps9": [
+        {
+            "Organization legal name": "AURORA HEALTH CARE METRO INC",
+            "Group PAC ID": "8628986536",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "92"
+        },
+        {
+            "Organization legal name": "MEMORIAL SOLID TUMOR GROUP",
+            "Group PAC ID": "4082503354",
+            "State": "NY",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        },
+        {
+            "Organization legal name": "INTEGRIS AMBULATORY CARE CORPORATION",
+            "Group PAC ID": "2365408465",
+            "State": "OK",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        },
+        {
+            "Organization legal name": "ST VINCENT HOSPITAL HOSPITAL SISTERS THIRD ORDER OF ST FRANCIS",
+            "Group PAC ID": "5799694675",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        },
+        {
+            "Organization legal name": "AURORA ADVANCED HEALTHCARE INC",
+            "Group PAC ID": "3375625833",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        },
+         {
+            "Organization legal name": "SUMMIT MEDICAL GROUP, PLLC",
+            "Group PAC ID": "5799694675",
+            "State": "TN",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        },
+        {
+            "Organization legal name": "NORTH OAKS PHYSICIAN GROUP, LLC",
+            "Group PAC ID": "2860396330",
+            "State": "LA",
+            "Measure Code": "CAHPS_GRP_9",
+            "Measure Title": "CAHPS for MIPS SSM: Care Coordination",
+            "MeasurePerformanceRate": "91"
+        }
+    ],
+    "Chaps10": [
+        {
+            "Organization legal name": "VALLEY MEDICAL GROUP-RENTON",
+            "Group PAC ID": "4183753965",
+            "State": "WA",
+            "Measure Code": "CAHPS_GRP_10",
+            "Measure Title": "CAHPS for MIPS SSM: Between Visit Communication",
+            "MeasurePerformanceRate": "76"
+        },
+        {
+            "Organization legal name": "NEW JERSEY MEDICAL AND HEALTH ASSOCIATES LLC",
+            "Group PAC ID": "9133300791",
+            "State": "NJ",
+            "Measure Code": "CAHPS_GRP_10",
+            "Measure Title": "CAHPS for MIPS SSM: Between Visit Communication",
+            "MeasurePerformanceRate": "71"
+        },
+        {
+            "Organization legal name": "GUNDERSEN CLINIC LTD",
+            "Group PAC ID": "9638082779",
+            "State": "WI",
+            "Measure Code": "CAHPS_GRP_10",
+            "Measure Title": "CAHPS for MIPS SSM: Between Visit Communication",
+            "MeasurePerformanceRate": "71"
+        },
+        {
+            "Organization legal name": "GROUP HEALTH PLAN INC",
+            "Group PAC ID": "1759293954",
+            "State": "MN",
+            "Measure Code": "CAHPS_GRP_10",
+            "Measure Title": "CAHPS for MIPS SSM: Between Visit Communication",
+            "MeasurePerformanceRate": "71"
+        },
+        {
+            "Organization legal name": "PATIENT FIRST RICHMOND MEDICAL GROUP PLLC",
+            "Group PAC ID": "9931011434",
+            "State": "VA",
+            "Measure Code": "CAHPS_GRP_10",
+            "Measure Title": "CAHPS for MIPS SSM: Between Visit Communication",
+            "MeasurePerformanceRate": "76"
+        }
+    ],
+    "Chaps12": [
+        {
+            "Organization legal name": "UNIVERSITY HEALTH SYSTEM,INC",
+            "Group PAC ID": "5294646378",
+            "State": "TN",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "47"
+        },
+        {
+            "Organization legal name": "BAPTIST PRIMARY CARE INC",
+            "Group PAC ID": "648177733",
+            "State": "FL",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "40"
+        },
+        {
+            "Organization legal name": "KANSAS UNIVERSITY PHYSICIANS INC",
+            "Group PAC ID": "8921911587",
+            "State": "KS",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "38"
+        },
+        {
+            "Organization legal name": "SUMMIT MEDICAL GROUP, PLLC",
+            "Group PAC ID": "2860396330",
+            "State": "TN",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "37"
+        },
+        {
+            "Organization legal name": "HARBIN CLINIC HEMATOLOGY ONCOLOGY",
+            "Group PAC ID": "446154231",
+            "State": "GA",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "36"
+        },
+        {
+            "Organization legal name": "EMORY MEDICAL GROUP, LLC",
+            "Group PAC ID": "9537238480",
+            "State": "GA",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "35"
+        },
+        {
+            "Organization legal name": "DEACONESS CLINIC INC",
+            "Group PAC ID": "3375610116",
+            "State": "IN",
+            "Measure Code": "CAHPS_GRP_12",
+            "Measure Title": "CAHPS for MIPS SSM: Stewardship of Patient Resources",
+            "MeasurePerformanceRate": "35"
+        }
+    ]
+}

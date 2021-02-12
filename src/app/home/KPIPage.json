@@ -1,0 +1,243 @@
+[
+  {
+    "HealthOrganization": "REGENTS OF THE UNIVERSITY OF CALIFORNIA - UCSD MEDICAL GROUP",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 72.22,
+    "TopBoxScore": "67.8%"
+  },
+  {
+    "HealthOrganization": "REGENTS OF THE UNIVERSITY OF CALIFORNIA - UCSD MEDICAL GROUP",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 67.89,
+    "TopBoxScore": "85.6%"
+  },
+  {
+    "HealthOrganization": "REGENTS OF THE UNIVERSITY OF CALIFORNIA - UCSD MEDICAL GROUP",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 91.91,
+    "TopBoxScore": "76.5%"
+  },
+  {
+    "HealthOrganization": "REGENTS OF THE UNIVERSITY OF CALIFORNIA - UCSD MEDICAL GROUP",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 78.89,
+    "TopBoxScore": "79.6%"
+  },
+  {
+    "HealthOrganization": "STANFORD HEALTH CARE",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 98.91,
+    "TopBoxScore": "86.3%"
+  },
+  {
+    "HealthOrganization": "STANFORD HEALTH CARE",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 89.76,
+    "TopBoxScore": "88.8%"
+  },
+  {
+    "HealthOrganization": "STANFORD HEALTH CARE",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 67.99,
+    "TopBoxScore": "99.9%"
+  },
+  {
+    "HealthOrganization": "STANFORD HEALTH CARE",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 86.96,
+    "TopBoxScore": "72.2%"
+  },
+  {
+    "HealthOrganization": "KANSAS CITY UROLOGY CARE PA",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 81.99,
+    "TopBoxScore": "67.9%"
+  },
+  {
+    "HealthOrganization": "KANSAS CITY UROLOGY CARE PA",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 89.45,
+    "TopBoxScore": "91.1%"
+  },
+  {
+    "HealthOrganization": "KANSAS CITY UROLOGY CARE PA",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 93.45,
+    "TopBoxScore": "78.9%"
+  },
+  {
+    "HealthOrganization": "KANSAS CITY UROLOGY CARE PA",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 65.41,
+    "TopBoxScore": "98.9%"
+  },
+  {
+    "HealthOrganization": "HEARTLAND REGIONAL MEDICAL CENTER",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 92.34,
+    "TopBoxScore": "89.7%"
+  },
+  {
+    "HealthOrganization": "HEARTLAND REGIONAL MEDICAL CENTER",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 95.45,
+    "TopBoxScore": "67.9%"
+  },
+  {
+    "HealthOrganization": "HEARTLAND REGIONAL MEDICAL CENTER",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 97.51,
+    "TopBoxScore": "86.9%"
+  },
+  {
+    "HealthOrganization": "HEARTLAND REGIONAL MEDICAL CENTER",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 98.01,
+    "TopBoxScore": "93.4%"
+  },
+  {
+    "HealthOrganization": "LESTER E COX MEDICAL CENTERS",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 82.43,
+    "TopBoxScore": "65.4%"
+  },
+  {
+    "HealthOrganization": "LESTER E COX MEDICAL CENTERS",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 86.34,
+    "TopBoxScore": "92.3%"
+  },
+  {
+    "HealthOrganization": "LESTER E COX MEDICAL CENTERS",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 87.63,
+    "TopBoxScore": "95.4%"
+  },
+  {
+    "HealthOrganization": "LESTER E COX MEDICAL CENTERS",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 56.76,
+    "TopBoxScore": "97.5%"
+  },
+  {
+    "HealthOrganization": "SOUTHEAST MISSOURI HOSPITAL PHYSICIANS LLC",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 80.91,
+    "TopBoxScore": "98.0%"
+  },
+  {
+    "HealthOrganization": "SOUTHEAST MISSOURI HOSPITAL PHYSICIANS LLC",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 78.93,
+    "TopBoxScore": "87.1%"
+  },
+  {
+    "HealthOrganization": "SOUTHEAST MISSOURI HOSPITAL PHYSICIANS LLC",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 89.54,
+    "TopBoxScore": "72.3%"
+  },
+  {
+    "HealthOrganization": "SOUTHEAST MISSOURI HOSPITAL PHYSICIANS LLC",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 67.81,
+    "TopBoxScore": "84.3%"
+  },
+  {
+    "HealthOrganization": "AMERICAN MULTISPECIALTY GROUP INC",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 45.12,
+    "TopBoxScore": "65.4%"
+  },
+  {
+    "HealthOrganization": "AMERICAN MULTISPECIALTY GROUP INC",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 91.87,
+    "TopBoxScore": "88.3%"
+  },
+  {
+    "HealthOrganization": "AMERICAN MULTISPECIALTY GROUP INC",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 69.89,
+    "TopBoxScore": "90.3%"
+  },
+  {
+    "HealthOrganization": "AMERICAN MULTISPECIALTY GROUP INC",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 94.45,
+    "TopBoxScore": "92.1%"
+  },
+  {
+    "HealthOrganization": "JEFFERSON CITY MEDICAL GROUP, PC",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 85.65,
+    "TopBoxScore": "63.4%"
+  },
+  {
+    "HealthOrganization": "JEFFERSON CITY MEDICAL GROUP, PC",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 76.54,
+    "TopBoxScore": "72.1%"
+  },
+  {
+    "HealthOrganization": "JEFFERSON CITY MEDICAL GROUP, PC",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 79.64,
+    "TopBoxScore": "89.9%"
+  },
+  {
+    "HealthOrganization": "JEFFERSON CITY MEDICAL GROUP, PC",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 86.34,
+    "TopBoxScore": "90.1%"
+  },
+  {
+    "HealthOrganization": "WASHINGTON UNIVERSITY",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 88.81,
+    "TopBoxScore": "86.3%"
+  },
+  {
+    "HealthOrganization": "WASHINGTON UNIVERSITY",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 99.99,
+    "TopBoxScore": "87.6%"
+  },
+  {
+    "HealthOrganization": "WASHINGTON UNIVERSITY",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 84.63,
+    "TopBoxScore": "56.7%"
+  },
+  {
+    "HealthOrganization": "WASHINGTON UNIVERSITY",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 74.53,
+    "TopBoxScore": "80.9%"
+  },
+  {
+    "HealthOrganization": "ST LOUIS UNIVERSITY",
+    "TimeFrame": "2019Q1",
+    "MeanScore": 63.31,
+    "TopBoxScore": "78.9%"
+  },
+  {
+    "HealthOrganization": "ST LOUIS UNIVERSITY",
+    "TimeFrame": "2019Q2",
+    "MeanScore": 71.43,
+    "TopBoxScore": "89.5%"
+  },
+  {
+    "HealthOrganization": "ST LOUIS UNIVERSITY",
+    "TimeFrame": "2019Q3",
+    "MeanScore": 82.45,
+    "TopBoxScore": "67.8%"
+  },
+  {
+    "HealthOrganization": "ST LOUIS UNIVERSITY",
+    "TimeFrame": "2019Q4",
+    "MeanScore": 76.64,
+    "TopBoxScore": "74.1%"
+  }
+
+]

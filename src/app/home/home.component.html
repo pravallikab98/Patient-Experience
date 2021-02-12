@@ -1,0 +1,41 @@
+<div class="container homepage">
+  <div class="row banner">
+    <img class="col-md-12" src="./assets/PXbanner.jpg" />
+    <div class="subbanner-text">
+      <p>
+        Patient experience encompasses the range of interactions that patients have with the health care system, including their care from health plans, and from doctors, nurses, and staff in hospitals, physician practices, and other health care facilities. Understanding patient experience is a key step in moving toward patient-centered care.
+      </p>
+    </div>
+    <div class="banner-text">
+      <h1><b> Patient Experience Analytics Platform</b></h1>
+    </div>
+  </div>
+  <br/>
+  <br/>
+  <div class="indicators">
+    <h3>Key Performance Indicators</h3>
+  </div>
+  <br/>
+  <div><label><b>Health Organizations</b></label><br/>
+    <select  class="form-control" (change) = "changeorg($event.target.value)" >
+      <option  *ngFor="let item of orgNames" [value]="item">{{item}}</option>
+    </select></div><div class="timefrm"><label><b>TimeFrame</b></label><br/>
+  <select class="form-control sec" (change) = "changetime($event.target.value)">
+    <option  *ngFor="let time of timefrm" [value]="time">{{time}}</option>
+  </select>
+</div>
+  <br/>
+  <div class="kpi-content container">
+    <ul class="kpi-tile">
+      <li *ngFor="let kpi of LegendInfo">
+        <div class="score">
+          <div class="kpi-header">{{kpi.item}}</div>
+          <div class="kpi-score">{{kpi.MeanScore? kpi.MeanScore : kpi.TopBoxScore}}</div>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <br/>
+  <input type="button" class="fadeIn fourth" (click)=perdash() value ="Performance Dashboard"/>
+  <input (click)=stardash() class="fadeIn fourth" type="button" value="Star Rating Dashboard"/>
+</div>

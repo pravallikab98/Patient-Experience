@@ -1,0 +1,14 @@
+
+<table align="center" class="dashboard">
+  <tr><th colspan="2" style="text-align: center;font-weight: bold;text-decoration: underline; font-size:40px">Performance Dashboard</th></tr>
+  <tr><td width="700"><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Getting Timely Care, Appointments and Information</p><app-bar-chart [data]="stateData1"></app-bar-chart></td>
+    <td width="700"><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: How Well Providers Communicate</p><app-floatingbarchart [data]="stateData2"></app-floatingbarchart></td></tr>
+  <tr><td width="700"><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Patient's Rating of Provider</p><app-cylinderCharts [data]="stateData3"></app-cylinderCharts></td>
+    <td><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Health Promotion and Education</p><app-triangle-barchart [data]="stateData4"></app-triangle-barchart></td></tr>
+  <tr><td><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Courteous and Helpful Office Staff</p><app-bar-chartAxis [data]="stateData5"></app-bar-chartAxis></td>
+    <td><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Care Coordination</p><app-barchartfloating [data]="stateData6"></app-barchartfloating></td></tr>
+  <tr><td><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Between Visit Communication</p><app-cylinderbars [data]="stateData7"></app-cylinderbars></td>
+    <td><p style="text-align: center;font-weight: bold; font-size:20px">CAHPS for MIPS SSM: Stewardship of Patient Resources</p><app-barcharttriangle [data]="stateData8"></app-barcharttriangle></td></tr></table>
+<br><div align="center"><input type="button" class="fadeIn fourth" (click)=aggdash() value="Aggregate Dashboard">
+<input type="button" class="fadeIn fourth" (click)=home() value="Home"/></div>
+

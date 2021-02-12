@@ -1,0 +1,62 @@
+{
+    "chap1": [
+        {
+            "Measure Title": "Top 5 Aggregate scores of the overall caphs summary",
+            "org": "SYCAMORE PRIMARY CARE GROUP",
+            "MeasurePerformanceRate": "96",
+            "State":"SYCAMORE"
+        },
+        {
+            "org": "STRONG MEDICAL GROUP",
+            "MeasurePerformanceRate": "90.8",
+            "State":"STRONG"
+        },
+        {
+            "org": "VIRGINIA UROLOGY CENTER",
+            "MeasurePerformanceRate": "90.5",
+             "State":"VIRGINIA"
+        },
+        {
+            "org": "KANSAS CITY UROLOGY CARE PA",
+            "MeasurePerformanceRate": "90",
+             "State":"KANSAS"
+        },
+        {
+            "org": "CONNECTICUT ORTHOPAEDIC SPECIALISTS, PC",
+            "MeasurePerformanceRate": "87.5",
+             "State":"CON-ORTH"
+        },
+        {
+            "org": "UROLOGY SPECIALISTS OF THE CAROLINAS PLLC",
+            "MeasurePerformanceRate": "87.5",
+             "State":"CAROLINAS"
+        }
+    ],
+    "chap2": [
+        {   "Measure Title": "Least 5 Aggregate scores of the overall caphs summary",
+            "org": "ACCLAIM PHYSICIAN GROUP INC",
+            "MeasurePerformanceRate": "64.5",
+            "State":"ACCLAIM"
+        },
+        {
+            "org": "UNIVERSITY PHYSICIAN ASSOCIATES OF NEW JERSEY INC",
+            "MeasurePerformanceRate": "61.33333333",
+            "State":"UPAONJ"
+        },
+        {
+            "org": "BOARD OF REGENTS OF THE UNIVERSITY OF OKLAHOMA OU PHYSICIANS TULSA",
+            "MeasurePerformanceRate": "59.5",
+            "State":"REGENTS"
+        },
+        {
+            "org": "PATIENT FIRST MARYLAND MEDICAL GROUP PLLC",
+            "MeasurePerformanceRate": "59",
+            "State":"MARYLAND"
+        },
+        {
+            "org": "KINGMAN HOSPITAL INC",
+            "MeasurePerformanceRate": "57",
+            "State":"KINGMAN"
+        }
+    ]
+}

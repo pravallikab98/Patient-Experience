@@ -1,0 +1,21 @@
+<div class="container homepage">
+  <div class="row banner" style="text-align: center;">
+    <img class="col-md-12" src="./assets/PXbanner.jpg" />
+  </div></div>
+
+
+<div align = "center">
+  <div style="text-align: center;font-weight: bold;text-decoration: underline; font-size:40px">
+    CC_Project_Team 3 - Patience Experience Analytics
+  </div>
+      <br>
+      <div>
+        <p style="text-align: center;font-weight: bold; font-size:20px">Username : </p><input [(ngModel)]="user.email" type="text" placeholder="Username"><br>
+        <p style="text-align: center;font-weight: bold; font-size:20px">Password : </p><input [(ngModel)]="user.password" type="password" placeholder="Password">
+        <div align="center"><br><input type="button" class="fadeIn fourth" (click)=login(user); value="Login"/>
+          <input type="button" class="fadeIn fourth" (click)=register(user); value="New User? Register here"/></div>
+        </div>
+      </div>
+
+
+
